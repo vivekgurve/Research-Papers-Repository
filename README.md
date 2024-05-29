@@ -22,7 +22,7 @@ generation of a self-captured data set through the simulation environment, empha
 manipulator. In recent years, many novel applications were proposed for 3-RPS. The understanding of kinematics, dynamics, and control methodologies lays a foundation of research and development. In recent years, this manipulator has been used for many novel applications.
 - **Keywords:** 3-RPS, Kinematics, Dynamics, Control, Parallel Manipulator
 
-  ### 4. [Solenoidal Valve Actuation System for Four-Stroke IC Engine ](https://www.rame.org.in/pdf/papers6/issue1/v6paper1.html)
+### 4. [Solenoidal Valve Actuation System for Four-Stroke IC Engine ](https://www.rame.org.in/pdf/papers6/issue1/v6paper1.html)
 - **Authors:**Vivek Gurve, Larwin Ukey, Lokesh Nagtode, Amit Meshram, Anup Naktode, Sudhanshu Gaikwad, Gyanprakash Yadav, Hemant Bansod.
 - **Abstract:**  There is a huge competition between manufacturers to make advancement in engine technology. However, one component has stayed unaltered in the internal combustion engine advancement i.e., the camshaft has been the essential methods for controlling the valve actuation and timing, and therefore impact the overall performance of the vehicle.
 The issue in utilizing camshafts is being significant power wastage in accelerating and decelerating the parts of the valve train. The friction of camshafts, springs, cam belts and
