@@ -36,5 +36,12 @@ Vivek Gurv, Gaurao Tapre, Arvind Totey.
 2016 and subjected to simulation using ANSYS WORKBENCH 16.2 etc. where impact analysis was performed in front, rear and lateral directions. Then we observed the flexural rigidity of structure and chassis deformation. The comparison of results of two different materials and then properties with final design is completed. The paper consists of design stresses and deformation result of different components of vehicle parts such as stub axle and stub arm of steering system, and temperature analysis of disc brake. Based on the result obtained from these test the design is modified accordingly.
 - **Keywords:** Simulation, Design calculation, modelling.
 
+## External Profiles
+
+You can find more research papers and publications on the following profiles:
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=2qtZDQQAAAAJ&hl=en)
+
+[![Academia.edu](https://img.shields.io/badge/Academia.edu-000000?style=for-the-badge&logo=academia&logoColor=white)](https://independent.academia.edu/VGurve)
   
 
