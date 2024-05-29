@@ -30,7 +30,8 @@ so on, likewise denies us of valuable power and declines efficiency not to menti
 - **Keywords:** Microcontroller, amplifier, motor driver, voltage regulator IC7805, relay circuit, led display. 
 
 ### 5. [DETAILED DESIGN CALCULATIONS & ANALYSIS OF GO-KART VEHICLE ](https://www.jetir.org/view?paper=JETIR18IC052)
-- **Authors:** Himanshu V Vairagade, Vivek Gurve, Neema Amish Ukani, Sandeep Sonaskar, Saurabh S. Chakole.
+- **Authors:** Avinash Barve
+Vivek Gurv, Gaurao Tapre, Arvind Totey.
 - **Abstract:**  The main objective of this paper is to give detailed design calculation and analysis of go-kart vehicles parts. Go kart is a four wheel racing vehicle & since there is no suspension and no differential, when both rear tires turn at the same speed. The intention of this paper is modelling and analysis of go-kart vehicle parts according to their design calculation and simulation of parts. The modelling and analysis are performed by using 3D CAD design software tools such as CREO PARAMETRIC 3.0, SOLIDWORKS 
 2016 and subjected to simulation using ANSYS WORKBENCH 16.2 etc. where impact analysis was performed in front, rear and lateral directions. Then we observed the flexural rigidity of structure and chassis deformation. The comparison of results of two different materials and then properties with final design is completed. The paper consists of design stresses and deformation result of different components of vehicle parts such as stub axle and stub arm of steering system, and temperature analysis of disc brake. Based on the result obtained from these test the design is modified accordingly.
 - **Keywords:** Simulation, Design calculation, modelling.
