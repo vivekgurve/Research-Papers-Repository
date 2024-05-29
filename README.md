@@ -23,7 +23,7 @@ manipulator. In recent years, many novel applications were proposed for 3-RPS. T
 - **Keywords:** 3-RPS, Kinematics, Dynamics, Control, Parallel Manipulator
 
 ### 4. [Solenoidal Valve Actuation System for Four-Stroke IC Engine ](https://www.rame.org.in/pdf/papers6/issue1/v6paper1.html)
-- **Authors:**Vivek Gurve, Larwin Ukey, Lokesh Nagtode, Amit Meshram, Anup Naktode, Sudhanshu Gaikwad, Gyanprakash Yadav, Hemant Bansod.
+- **Authors:** Vivek Gurve, Larwin Ukey, Lokesh Nagtode, Amit Meshram, Anup Naktode, Sudhanshu Gaikwad, Gyanprakash Yadav, Hemant Bansod.
 - **Abstract:**  There is a huge competition between manufacturers to make advancement in engine technology. However, one component has stayed unaltered in the internal combustion engine advancement i.e., the camshaft has been the essential methods for controlling the valve actuation and timing, and therefore impact the overall performance of the vehicle.
 The issue in utilizing camshafts is being significant power wastage in accelerating and decelerating the parts of the valve train. The friction of camshafts, springs, cam belts and
 so on, likewise denies us of valuable power and declines efficiency not to mention contributing to wear and tear. It is a well-known fact that in the event that valves could be controlled autonomously in an Internal Combustion Engine, at that point there would be benefits like increase in power output, decrease in emission, and significant increase in efficiency. Camless innovation is catching the fate of internal combustion engines. In Camless technology valve movement is actuated and controlled by actuators of the electro-mechanical, electro-hydraulic and electromagnetic type.
