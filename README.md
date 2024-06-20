@@ -3,7 +3,7 @@
 
 This repository contains a collection of research papers by Vivek Gurve and collaborators. The papers cover Artificial Intelligence and Machine Learning, Robotics, Parallel Manipulators, Computer Vision, Image Segmentation, Unmanned Aerial Vehicles (UAVs), Transfer Learning, Simulated Environment, and deep learning. 
 
-## Papers 
+## Papers Included
 
 ### 1. [Drone View Segmentation: Deep Learning and Transfer Insights](https://ijisae.org/index.php/IJISAE/article/view/4393)
 - **Authors:** Vivek Gurve, Gunjan Singh, Dr. Shilpa Gite, Dr. K. Nandhini, Santosh Borde
